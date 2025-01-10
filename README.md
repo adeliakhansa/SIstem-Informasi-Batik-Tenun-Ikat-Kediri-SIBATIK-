@@ -1,4 +1,17 @@
-# SIstem-Informasi-Batik-Tenun-Ikat-Kediri-SIBATIK-
+<p align="center">
+  <img src="src=https://github.com/a tavada/sibatik/raw/main/publi
+c/tenunmulya.png" alt="Mulya di Kediri" width="200">
+</p>
+
+<h1 align="center">SIBATIK | Tenun Mulya</h1>
+<p align="center">Sistem Informasi Batik Tenun Ikat Kediri</p>
+
+<p align="center">
+  <a href="https://contoh-tautan-dokumentasi.com">Explore the docs »</a>
+</p>
+
+
+## About The Project
 SIBATIK, Sistem Informasi Batik Tenun Ikat Kediri, adalah website inovatif untuk mendukung UMKM lokal dalam promosi digital. Web ini mencakup katalog kain batik tenun ikat dan fitur belanja online yang terintegrasi dengan marketplace resmi mitra. Dirancang user-friendly, SIBATIK memudahkan pengguna dari berbagai latar belakang mengaksesnya.
 
 ## Features
